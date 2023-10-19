@@ -7,10 +7,15 @@
 html {
     max-width: 100vw;
     overflow-x: hidden;
-    height: 100%
+    height: 100%;
+}
+
+.bg-light {
+    background-color: #fff!important;
 }
 
 body {
+    background-color: #0284cd !important;
     padding-top: 66px;
     font-family: montserrat,sans-serif;
     color: #044f98;
@@ -115,6 +120,8 @@ footer a:hover {
 .menu-btn{
     border:none;
     color:#2bace2;
+    margin-left:2%;
+    background-color: #fff;
 }
 
 
