@@ -31,12 +31,8 @@ footer {
     padding: 20px ;
 }
 
-footer a {
-    color: #717171;
-}
-
-footer a:hover {
-    color: #fedd11;
+footer>p {
+    color: #fed111
 }
 
 .container-double{
